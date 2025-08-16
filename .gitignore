@@ -1,0 +1,9 @@
+.vercel
+
+# Large model files
+*.bin
+*.onnx
+*.h5
+*.pt
+*.pth
+*.safetensors

@@ -3,5 +3,6 @@
     "additionalDirectories": [
       // add directory if you have Obsidian brain
     ]
-  }
+  },
+  "outputStyle": "Jean-Claude"
 }

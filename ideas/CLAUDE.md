@@ -23,7 +23,7 @@ Located at `.claude/commands/ideas.md`, this command provides:
 
 ### Location
 
-All idea files are stored in `~/cc/ideas/` directory.
+All idea files are stored in @ideas directory.
 
 ### File Naming Convention
 
@@ -72,7 +72,7 @@ Based on existing examples, ideas should include:
 
 ### Project Connections
 
-- Ideas can evolve into full projects in `~/cc/projects/`
+- Ideas can evolve into full projects in @projects
 - Reference ideas in project roadmaps and planning
 - Link ideas to strategic objectives
 

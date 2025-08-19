@@ -8,7 +8,7 @@ The TODO system is organized around daily markdown files that track tasks, prior
 
 ### Location
 
-All TODO files are stored in `~/cc/todos/` directory.
+All TODO files are stored in @todos directory.
 
 ### File Naming Convention
 

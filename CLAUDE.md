@@ -4,23 +4,14 @@
 
 WRITE INFORMATION ABOUT YOU.
 
-## Directory Structure
-
-- **~/Desktop**: Screenshots and videos for reference
-- **~/memes**: Meme collection for brainstorming
-- **~/Repos**: Main coding projects
-- **~/Documents**: Personal videos + Documents
-- **~/Downloads**: Recent downloads
-
 ## Working Directories
 
-- **Scripts**: `~/cc/scripts` - Custom scripts and automation
-- **Raycast**: `~/cc/raycast` - Custom scripts that I can run directly with Raycast (https://github.com/raycast/script-commands)
-- **Memory**: `~/cc/memories` - Important information to remember (markdown)
-- **Journal**: `~/cc/journal` - Personal journal entries (markdown)
-- **Ideas**: `~/cc/ideas` - Creative ideas and thoughts (markdown)
-- **To dos**: `~/cc/todos` - Things to do, reminders, etc (markdown)
-- **Projects**: `~/cc/projects` - Active projects I'm working on (markdown)
+- **Scripts**: @scripts - Custom scripts and automation
+- **Memory**: @memories - Important information to remember (markdown)
+- **Journal**: @journal - Personal journal entries (markdown)
+- **Ideas**: @ideas - Creative ideas and thoughts (markdown)
+- **To dos**: @todos - Things to do, reminders, etc (markdown)
+- **Projects**: @projects - Active projects I'm working on (markdown)
 
 ## Instructions & Projects
 
@@ -40,6 +31,6 @@ As I do work, append important information to that file that you need to remembe
 
 ## Project Management Systems
 
-### Claude Code Projects (`~/cc/projects/`)
+### Claude Code Projects (`/projects/`)
 
 Active projects tracked during Claude Code conversations. Each project has its own folder/file with:

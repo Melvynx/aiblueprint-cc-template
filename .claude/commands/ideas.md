@@ -4,6 +4,8 @@ description: Keep an idea forever in cc
 
 # Ideas Entry Manager
 
+## Current Action: $ARGUMENTS
+
 This command is for creating, updated and finding ideas. Each entry is stored in a markdown file inside @ideas folder.
 
 ## Usage:

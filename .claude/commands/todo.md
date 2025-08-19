@@ -24,6 +24,20 @@ I'll help you manage your TODO list stored in TODO.MD. This command will:
    - Organize with sub-bullets
    - Add context from memories if relevant
 
+If no topic is provided, you can update the todo of today using this commands to know the date : `date +%Y-%m-%d`
+
+Then create a file like `daily-2025-07-22.todo.md` with the todo. Try to keep the todo simple, with just a lit like this :
+
+<example>
+
+# 2025-07-22 - todo
+
+- [ ] Todo 1
+- [ ] Todo 2
+- [ ] Todo 3
+
+</example>
+
 ## Available Actions:
 
 - Add a new todo: `/todo add [task description]`
